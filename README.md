@@ -25,4 +25,7 @@ This project is an interactive Power BI dashboard analyzing financial performanc
 * The Treemap reveals which industries hold the highest market capitalization.
 * Carbon emissions are heavily concentrated in specific regions, highlighting areas for sustainability focus.
 
-![Dashboard Preview](esg-dashboard.png)
+
+<img width="1074" height="607" alt="FINANCIAL DASHBOARD" src="https://github.com/user-attachments/assets/be58b13e-d785-458a-9a8b-ea891b082861" />
+
+
